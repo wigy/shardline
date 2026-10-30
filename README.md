@@ -5,7 +5,7 @@ A neon brick-breaker for the browser, built with plain HTML5 Canvas and JavaScri
 **Play it here:** https://wigy.github.io/shardline/
 
 <p align="center">
-  <img src="docs/screenshot.jpg" alt="Shardline stage 1" width="400">
+  <img src="docs/keep.jpg" alt="Stage 5 with piercing multiball and glue paddle" width="400">
   <img src="docs/action.jpg" alt="Charge brick explosion with multiball and power-ups" width="400">
 </p>
 
