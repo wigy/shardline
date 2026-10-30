@@ -1,6 +1,8 @@
 # Shardline
 
-A neon brick-breaker for the browser, built with plain HTML5 Canvas and JavaScript. No build step, no dependencies, and no image assets: everything is drawn in code.
+A neon brick-breaker for the browser in the style of classic paddle-and-ball games like Arkanoid and Breakout, with its own original levels, power-ups and look. Built with plain HTML5 Canvas and JavaScript: no build step, no dependencies, and no image assets, everything is drawn in code.
+
+<sub>Shardline is an independent project and is not affiliated with or endorsed by the owners of Arkanoid or Breakout.</sub>
 
 **Play it here:** https://wigy.github.io/shardline/
 
