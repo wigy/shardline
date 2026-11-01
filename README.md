@@ -27,6 +27,23 @@ A neon brick-breaker for the browser in the style of classic paddle-and-ball gam
 - Power-ups: **W**ide paddle, **M**ultiball, **S**low ball, **G**lue paddle, **P**ierce, and **+** extra life.
 - Particle effects, screen shake, synthesized sound effects, and a high score saved in the browser.
 
+## Stages
+
+Click a picture to see it at full size.
+
+<table>
+  <tr>
+    <td align="center"><a href="docs/levels/level-1.jpg"><img src="docs/levels/level-1.jpg" alt="Stage 1: First Light" width="160"></a><br><b>1.</b> First Light</td>
+    <td align="center"><a href="docs/levels/level-2.jpg"><img src="docs/levels/level-2.jpg" alt="Stage 2: Lantern" width="160"></a><br><b>2.</b> Lantern</td>
+    <td align="center"><a href="docs/levels/level-3.jpg"><img src="docs/levels/level-3.jpg" alt="Stage 3: Colonnade" width="160"></a><br><b>3.</b> Colonnade</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="docs/levels/level-4.jpg"><img src="docs/levels/level-4.jpg" alt="Stage 4: Undertow" width="160"></a><br><b>4.</b> Undertow</td>
+    <td align="center"><a href="docs/levels/level-5.jpg"><img src="docs/levels/level-5.jpg" alt="Stage 5: Keep" width="160"></a><br><b>5.</b> Keep</td>
+    <td align="center"><a href="docs/levels/level-6.jpg"><img src="docs/levels/level-6.jpg" alt="Stage 6: Static" width="160"></a><br><b>6.</b> Static</td>
+  </tr>
+</table>
+
 ## Running locally
 
 Open `index.html` in a browser, or serve the folder:
